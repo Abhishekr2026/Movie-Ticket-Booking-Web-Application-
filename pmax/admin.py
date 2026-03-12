@@ -1,4 +1,3 @@
-
 from django.contrib import admin
 from pmax.models import User,Movie,Theatre,Show,Review,Booking
 

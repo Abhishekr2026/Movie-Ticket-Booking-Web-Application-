@@ -1,3 +1,4 @@
+
 """
 URL configuration for movie_project project.
 
